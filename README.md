@@ -1,4 +1,7 @@
-# DataScience_Primeros
+# Primeros ejercicios del curso de Ciencia de Datos
+
+**First exercises for the Data Science course from the Physics MSc at Universidad de los Andes. Repository for personal study. **
+
 Primeros ejercicios del curso de Introducción a la Ciencia de los datos.
 
 El ejercicio 1 (ejercicio1.py) trata de hacer *fits perfectos con matriz inversa*. Contiene:
